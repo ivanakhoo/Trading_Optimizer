@@ -1,13 +1,14 @@
 # Trading_Optimizer
 
 ## TODO:
-- Figure out why eigenvectors have negative values
 - Make simple Markov chain with fixed transition probabilities
-
+- Implement various strategies (see discord)
+-- Create "move" matrix? (given the two states of BC and gold, what changes to allocation do we make)
 - *Later*: Make MC model with dynamic transition probabilities
 
-# Git steps
 
+
+# Git steps
 
 ## Pull
 git pull origin main
